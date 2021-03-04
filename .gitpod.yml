@@ -1,0 +1,3 @@
+tasks:
+  - before: npm install --global editorconfig
+  - init: yarn install && yarn serve
